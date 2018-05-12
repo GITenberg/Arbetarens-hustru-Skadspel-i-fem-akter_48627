@@ -1,9 +1,13 @@
 _repo: Arbetarens-hustru-Skadspel-i-fem-akter_48627
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Winterhjelm, Hedvig
     gutenberg_agent_id: '44888'
     url: http://www.gutenberg.org/2009/agents/44888
+covers:
+- cover_type: archival
+  image_path: 48627-h/images/cover.jpg
 creator:
   author:
     agent_name: Canth, Minna
@@ -18,6 +22,8 @@ creator:
     - http://en.wikipedia.org/wiki/Minna_Canth
     - http://fi.wikipedia.org/wiki/Minna_Canth
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48627#Arbetarens-hustru-Skadspel-i-fem-akter
 gutenberg_issued: '2015-04-01'
 gutenberg_type: Text
 identifiers:
